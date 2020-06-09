@@ -1,0 +1,1 @@
+java -classpath ..\build\libs\*;. com.thinking.machines.server.Server
