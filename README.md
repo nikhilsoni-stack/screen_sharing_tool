@@ -12,4 +12,4 @@ Agin build the project with gradle.
 
 Now just go in pl/src folder and run rn.bat file.
 
-# Enjoy the sharing
+# Enjoy sharing
